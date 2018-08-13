@@ -14,5 +14,3 @@ def change
     end
   end
 end
-
-end
